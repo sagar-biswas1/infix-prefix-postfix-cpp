@@ -58,6 +58,6 @@ return s.Top();
 
 int main()
 {
-cout<<prefixEvaluation("+*432");
+cout<<prefixEvaluation("-+7*45+20");
     return 0;
 }
